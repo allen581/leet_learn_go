@@ -1,3 +1,5 @@
+// code 0001
+
 package array
 
 import (
